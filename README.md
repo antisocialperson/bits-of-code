@@ -6,3 +6,5 @@ I wlll post code for PAST contests.
 # Part 2: Irrelevant Cringe
 If I want to do it, I'll do it to make it look like I am smart when actually I'm not.
 This is all just a /r/iamverysmart humble brag.
+# Part 3: Training Pages
+I'm not going to do a Training Pages question, ever.
