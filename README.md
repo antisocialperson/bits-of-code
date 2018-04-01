@@ -7,4 +7,4 @@ I wlll post code for PAST contests.
 If I want to do it, I'll do it to make it look like I am smart when actually I'm not.
 This is all just a /r/iamverysmart humble brag.
 # Part 3: Training Pages
-I'm not going to do a Training Pages question, ever.
+I'm not going to do a Training Pages question, ever, because the USACO Training Pages are the same for everyone.
