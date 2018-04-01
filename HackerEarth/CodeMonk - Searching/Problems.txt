@@ -1,0 +1,7 @@
+https://www.hackerearth.com/challenge/competitive/codemonk-searching/problems/
+The problems are located on this link.
+1. Monk Takes a Walk
+2. Monk and Search
+3. Monk and circular distance
+4. Little Monk and Mountains
+5. Monk and Special Integer
