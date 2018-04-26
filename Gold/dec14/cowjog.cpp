@@ -38,7 +38,7 @@ int main(){
     vector<int> lanes;
     for(int i = 0; i < N; i++){
         // position, speed
-        int p, s;
+        long long int p, s;
         fin >> p >> s;
         // position to final position. negative to reverse the order and keep it as increasing
         p = -(p + s*T);
