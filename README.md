@@ -6,5 +6,7 @@ I wlll post code for PAST contests.
 # Part 2: Irrelevant Cringe
 If I want to do it, I'll do it to make it look like I am smart when actually I'm not.
 This is all just a /r/iamverysmart humble brag.
+
+Also I'll store old AoPS blog CSS here just in case I need it again.
 # Part 3: Training Pages
 I'm not going to do a Training Pages question, ever, because the USACO Training Pages are the same for everyone.
