@@ -1,0 +1,16 @@
+/* 
+ * THIS IS AN OLD BLOG, AND I'M PROBABLY NOT GOING TO GO AND CHANGE THE CSS. I WILL ATTACH AN IMAGE OF HOW IT LOOKS THOUGH FOR PEOPLE
+ * WHO AREN'T CONVINCED THAT THIS BLOG CSS IS HIDEOUS
+ */
+
+/* Personalize post color */
+div .entrywrap, div .entrywrap-hover {
+  background : #ffffff;
+  color : #000000;
+}
+
+/* Change BG color and image */
+  body {
+  background: #303030;
+  background-image: url("https://media.nintendo.com/nintendo/bin/-ym9fv73emSxMQb2yQZQmxO2w21bhSco/l5W8tI1fxPyScgdmZfJX7TPcjvRsF-kV.png");
+}
