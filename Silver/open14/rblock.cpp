@@ -48,8 +48,8 @@ int best(int N){
 
 int main() {
 	
-	freopen("roadblock.in", "r", stdin);
-	freopen("roadblock.out", "w", stdout);
+	freopen("rblock.in", "r", stdin);
+	freopen("rblock.out", "w", stdout);
 	
 	memset(connections, 63, sizeof(connections));
 	
