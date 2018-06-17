@@ -1,0 +1,123 @@
+/* Import fonts */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Open%20Sans&subset=latin,latin-ext);
+
+/* Header things */
+div#header {
+    background-color: #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    border: none;
+}
+
+/* Navigation box */
+
+div#navigation_box {
+    background-color: #666666;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    box-shadow: 0px 0px 5px 0px #696969;
+    border: none;
+    padding: 0px;
+    width: 100%;
+    height: 30px;
+}
+
+div#navigation_box:hover {
+    box-shadow: 0px 0px 10px 0px #696969;
+}
+
+div#navigation_box div a {
+    display: inline-block;
+    text-decoration: none;
+    color: white !important;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    height: 30px;
+}
+
+div.message {
+    overflow: visible;
+}
+
+div#navigation_box div a:hover {
+    background-color: #aa0;
+    box-shadow: 0px 0px 20px 0px #aa0;
+}
+
+/* Blog Post Size */
+
+#main {
+    width:85%;
+}
+
+/* Side */
+
+#side {
+    width:15%;
+}
+
+#side {
+    background: none;
+}
+
+/* Shoutbox */
+
+div#shouts-widget.widget {
+    width: 47%;
+}
+
+/* Wrapper */
+
+#wrapper{
+    width:81.6666%;
+}
+
+#wrapper {
+    background: none;
+    border: none;
+}
+
+/* Entire blog background */
+
+body{
+    background-color : #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    text-color: #000000;
+}
+
+/* Personalize blog posts */
+
+div.entrywrap, div.entrywrap-hover {
+    background-color: white;
+    border: none;
+}
+
+/* Links and things */
+
+a:link {
+    color: #00a; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0aa;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #07a;
+    background-color: transparent;
+    text-decoration: none;
+}
